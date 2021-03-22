@@ -1,22 +1,16 @@
 ## Hey there :upside_down_face:
 
-**Machine Learning M.Sc** + **Computer Science B.Sc** graduate 🎓 with _too many_ interests and concerns, especially regarding issues on privacy, sustainability, ethics! :parrot: Experience in Deep Learning research and always eager to exchange knowledge.
-
-Currently working as full-stack dev (50%) + running various ML projects (50%).
+**Machine Learning M.Sc** + **Computer Science B.Sc** graduate  with _too many_ interests and concerns, especially regarding issues on privacy, sustainability, ethics! :parrot: Experience in Deep Learning research and always eager to exchange knowledge. Currently working as full-stack dev (50%) + running various ML projects (50%).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kostis-S-Z&count_private=true&show_icons=true&theme=tokyonight)
 
-## :triangular_flag_on_post:  Some stuff I've done
+#### :books: [Publications](https://scholar.google.se/citations?user=x1Ms4tYAAAAJ)
 
-<!-- BLOG-POST-LIST:START -->
-- [Publications](https://scholar.google.se/citations?user=x1Ms4tYAAAAJ)
-- [Projects & Presentations](https://kostis-s-z.github.io/projects/)
-- [M.Sc Thesis on Meta-Learning](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1531273&dswid=-899)
-- [Blog Posts](https://kostis-s-z.github.io/blog/)
-<!-- BLOG-POST-LIST:END -->
+#### :dart: [Projects, Presentations, Blog Posts](https://kostis-s-z.github.io/projects/)
 
+#### :mortar_board: [M.Sc Thesis on Meta-Learning](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1531273&dswid=-899)
 
-## :computer: Languages, Frameworks & Tools
+### :computer: Languages, Frameworks & Tools
 
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -47,10 +41,5 @@ Currently working as full-stack dev (50%) + running various ML projects (50%).
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code></code> -->
-
-
-
-### :paw_prints: Follow me on [![LinkedIn](https://img.shields.io/badge/-Kostis-S-Z-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kostissz/)](https://www.linkedin.com/in/kostissz/) or here [![GitHub](https://img.shields.io/github/followers/Kostis-S-Z?label=Followers&logo=Github)](https://github.com/Kostis-S-Z)
-
 
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
