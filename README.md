@@ -1,6 +1,6 @@
 ## Hey there :upside_down_face:
 
-**Machine Learning M.Sc** + **Computer Science B.Sc** graduate  with _too many_ interests and concerns, especially regarding issues on privacy, sustainability, ethics! :parrot: Experience in Deep Learning research and always eager to exchange knowledge. Currently working as full-stack dev (50%) + running various ML projects (50%).
+**Machine Learning M.Sc** + **Computer Science B.Sc** graduate  with _too many_ interests and concerns, especially regarding issues on privacy, sustainability, ethics :parrot: Experience in Deep Learning research and always eager to exchange knowledge. Currently working as an ML freelancer.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kostis-S-Z&count_private=true&show_icons=true&theme=tokyonight)
 
