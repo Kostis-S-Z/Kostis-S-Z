@@ -4,11 +4,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kostis-S-Z&count_private=true&show_icons=true&theme=tokyonight)
 
-#### :books: [Publications](https://scholar.google.se/citations?user=x1Ms4tYAAAAJ)
+### :books: [Publications](https://scholar.google.se/citations?user=x1Ms4tYAAAAJ)
 
-#### :dart: [Projects, Presentations, Blog Posts](https://kostis-s-z.github.io/projects/)
+### :dart: [Projects, Presentations, Blog Posts](https://kostis-s-z.github.io/projects/)
 
-#### :mortar_board: [M.Sc Thesis on Meta-Learning](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1531273&dswid=-899)
+### :mortar_board: [M.Sc Thesis on Meta-Learning](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1531273&dswid=-899)
 
 ### :computer: Languages, Frameworks & Tools
 
