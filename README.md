@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer** with a Computer Science background, experience in Deep Learning research and building ML platforms. Concerns on privacy, sustainability, ethics :parrot:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kostis-S-Z&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Kostis-S-Z&count_private=true&show_icons=true&theme=tokyonight)
 
 ### :books: [Publications](https://scholar.google.se/citations?user=x1Ms4tYAAAAJ)
 
